@@ -36,3 +36,5 @@ cacheSolve = function(x, ...) {
 # m = makeCacheMatrix(x)
 # m$get()
 # cacheSolve(m)
+# cacheSolve(m)
+
